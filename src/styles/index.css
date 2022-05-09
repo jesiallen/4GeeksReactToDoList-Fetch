@@ -10,3 +10,27 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+button{
+    margin:50px auto;
+}
+header{
+    margin: 25px auto;
+}
+input{
+    margin:25px 50px;
+    width: 400px;
+}
+li{
+    border-bottom: 1px solid lightgray;
+    list-style-type: none;
+}
+.container{
+    margin: auto;
+    width: 500px;
+}
+.complete{
+    text-decoration: line-through;
+}
+.completed{
+    color:greenyellow;
+}
